@@ -1,0 +1,8 @@
+.country {
+  stroke: $white;
+  stroke-width: 0.4;
+  
+  &:hover {
+    fill: $orange;
+  }
+}

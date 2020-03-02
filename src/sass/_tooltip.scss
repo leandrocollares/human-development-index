@@ -1,0 +1,18 @@
+.tooltip {
+  display: flex;
+  flex-direction: column;
+  background: $white-85-pct;
+  position: absolute;
+  top: -12px;
+  left: 0;
+  padding: 0.6em;
+  border: 1px solid $light-grey;
+  pointer-events: none;
+  font-size: 12px;
+  
+  &__title {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 0.2em;
+  }
+}

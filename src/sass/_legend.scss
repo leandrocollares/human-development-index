@@ -1,0 +1,25 @@
+.legend {  
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  margin: 5px 0;
+  
+  &__range {
+    font-size: 13px;
+    text-align: center;
+  }
+   
+  &__axis {
+    path {
+      display: none;
+    }
+  
+    .tick line {
+      color: $white;
+    }
+  
+    text {
+      font-size: 12px;
+    }
+  }
+}

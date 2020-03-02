@@ -1,0 +1,41 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: $dark-grey;
+  height: 100%;
+  width: 100%;
+  user-select: none;
+
+  a {
+    outline: none;
+    text-decoration: none;
+
+    &:link, &:visited {
+      color: $blue;
+    }
+
+    &:active {
+      color: $red
+    }
+
+    &:focus, &:hover {
+      color: $red;
+      border-bottom: 1px dotted;
+    }
+  }  
+
+  h1 {  
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1.5em;
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+  
+  &__footer {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 10px;
+  }
+}

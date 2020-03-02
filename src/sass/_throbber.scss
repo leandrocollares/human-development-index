@@ -1,0 +1,26 @@
+.loading {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  
+  &__wheel {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    border: 16px solid #fff;
+    border-top-color: $blue;
+    border-bottom-color: $red;
+    border-radius: 50%;
+    animation: spin 3s linear infinite;
+  }
+}
+  
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  
+  100% {
+    transform: rotate(360deg);
+  }
+}
