@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/human-development-index/static/css/main.07c1fe39.chunk.css",
+    "main.js": "/human-development-index/static/js/main.ad31b77c.chunk.js",
+    "main.js.map": "/human-development-index/static/js/main.ad31b77c.chunk.js.map",
+    "runtime-main.js": "/human-development-index/static/js/runtime-main.6f028a5f.js",
+    "runtime-main.js.map": "/human-development-index/static/js/runtime-main.6f028a5f.js.map",
+    "static/js/2.9ee840b4.chunk.js": "/human-development-index/static/js/2.9ee840b4.chunk.js",
+    "static/js/2.9ee840b4.chunk.js.map": "/human-development-index/static/js/2.9ee840b4.chunk.js.map",
+    "index.html": "/human-development-index/index.html",
+    "precache-manifest.ff82f9e94da6ce52d4fa113fa9b61767.js": "/human-development-index/precache-manifest.ff82f9e94da6ce52d4fa113fa9b61767.js",
+    "service-worker.js": "/human-development-index/service-worker.js",
+    "static/css/main.07c1fe39.chunk.css.map": "/human-development-index/static/css/main.07c1fe39.chunk.css.map",
+    "static/js/2.9ee840b4.chunk.js.LICENSE.txt": "/human-development-index/static/js/2.9ee840b4.chunk.js.LICENSE.txt",
+    "static/media/hdi.csv": "/human-development-index/static/media/hdi.85e924d4.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f028a5f.js",
+    "static/js/2.9ee840b4.chunk.js",
+    "static/css/main.07c1fe39.chunk.css",
+    "static/js/main.ad31b77c.chunk.js"
+  ]
+}
